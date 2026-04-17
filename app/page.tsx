@@ -22,7 +22,7 @@ export default function WeddingInvitation() {
 
         <div className="animate-fade-in-up-delay-4 py-4 space-y-4">
           <h2 className="font-cormorant text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-deep-brown leading-tight">
-            Amal <span className="text-gold-light font-playfair italic mx-2 sm:mx-4">&amp;</span> Amiya
+            Nihma <span className="text-gold-light font-playfair italic mx-2 sm:mx-4">&amp;</span> Nihal
           </h2>
 
           <div className="pt-2">
@@ -30,7 +30,7 @@ export default function WeddingInvitation() {
               Children of
             </p>
             <p className="font-cormorant italic text-lg sm:text-xl text-deep-brown">
-              Mr. &amp; Mrs. Edward Hastings <span className="mx-2 text-gold-light/60">|</span> Mr. &amp; Mrs. David Jenkins
+              Mr. &amp; Mrs. Mahroof <span className="mx-2 text-gold-light/60">|</span> Mr. &amp; Mrs. Saboora
             </p>
           </div>
         </div>
